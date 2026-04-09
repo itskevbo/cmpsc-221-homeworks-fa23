@@ -5,4 +5,4 @@ Introductory OOP Course taught in Java, with utilization of the NetBeans IDE. Da
 
 Professor: Al Verbanec
 
-Semester: Fall 2024
+Semester: Fall 2023
