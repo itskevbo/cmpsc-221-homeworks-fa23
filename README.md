@@ -4,4 +4,5 @@
 Introductory OOP Course taught in Java, with utilization of the NetBeans IDE. Database work done in Apache Derby. 
 
 Professor: Al Verbanec
+
 Semester: Fall 2024
